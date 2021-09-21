@@ -48,7 +48,7 @@
                                         ・作業の効率化、適正化が進まない
                                         業務を切り分けて委託することにより、センターの抱える諸課題を解決します。
                                         人材の募集から教育、労務管理はもちろん、作業の最適化を目指しコストの見直しを全て請負ます。</p>
-                                    <small class="firstsmall"><a class="bg-orange" href="tech-category-01.html" title="">Gadgets</a></small>
+                                    <small class="firstsmall"><a class="bg-orange" href="tech-category-01.html" title="">食物</a></small>
                                     <small><a href="tech-single.html" title="">21 July, 2017</a></small>
                                     <small><a href="tech-author.html" title="">by minori</a></small>
                                     <small><a href="tech-single.html" title=""><i class="fa fa-eye"></i> 1114</a></small>
@@ -76,7 +76,7 @@
                                         ・作業の効率化、適正化が進まない
                                         業務を切り分けて委託することにより、センターの抱える諸課題を解決します。
                                         人材の募集から教育、労務管理はもちろん、作業の最適化を目指しコストの見直しを全て請負ます。</p>
-                                    <small class="firstsmall"><a class="bg-orange" href="tech-category-01.html" title="">Gadgets</a></small>
+                                    <small class="firstsmall"><a class="bg-orange" href="tech-category-01.html" title="">食物</a></small>
                                     <small><a href="tech-single.html" title="">21 July, 2017</a></small>
                                     <small><a href="tech-author.html" title="">by minori</a></small>
                                     <small><a href="tech-single.html" title=""><i class="fa fa-eye"></i> 1114</a></small>
@@ -104,7 +104,7 @@
                                         ・作業の効率化、適正化が進まない
                                         業務を切り分けて委託することにより、センターの抱える諸課題を解決します。
                                         人材の募集から教育、労務管理はもちろん、作業の最適化を目指しコストの見直しを全て請負ます。</p>
-                                    <small class="firstsmall"><a class="bg-orange" href="tech-category-01.html" title="">Gadgets</a></small>
+                                    <small class="firstsmall"><a class="bg-orange" href="tech-category-01.html" title="">食物</a></small>
                                     <small><a href="tech-single.html" title="">21 July, 2017</a></small>
                                     <small><a href="tech-author.html" title="">by minori</a></small>
                                     <small><a href="tech-single.html" title=""><i class="fa fa-eye"></i> 1114</a></small>
