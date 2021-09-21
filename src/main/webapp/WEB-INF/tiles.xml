@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE tiles-definitions PUBLIC
+        "-//Apache Software Foundation//DTD Tiles Configuration 3.0//EN"
+        "http://tiles.apache.org/dtds/tiles-config_3_0.dtd">
+
+<tiles-definitions>
+
+    <!--     Base Define -->
+    <definition name="client.definition"
+                template="/WEB-INF/jsp/layouts/clientLayout.jsp">
+        <put-attribute name="header" value="/WEB-INF/jsp/jop/header.jsp" />
+        <put-attribute name="body" value="" />
+        <put-attribute name="footer" value="/WEB-INF/jsp/jop/footer1.jsp" />
+    </definition>
+    <definition name="client.definition1"
+                template="/WEB-INF/jsp/layouts/clientLayout2.jsp">
+        <put-attribute name="header" value="/WEB-INF/jsp/web/header.jsp" />
+        <put-attribute name="body" value="" />
+        <put-attribute name="footer" value="/WEB-INF/jsp/web/footer.jsp" />
+    </definition>
+
+
+
+    <definition name="homepage"
+                extends="client.definition1">
+        <put-attribute name="body" value="/WEB-INF/jsp/web/homepage.jsp" />
+
+    </definition>
+    <definition name="content"
+                extends="client.definition1">
+        <put-attribute name="body" value="/WEB-INF/jsp/web/content.jsp" />
+
+    </definition>
+
+
+</tiles-definitions>
