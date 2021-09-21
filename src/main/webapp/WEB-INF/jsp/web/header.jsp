@@ -63,13 +63,13 @@
                             <a class="nav-link" href="/content">事業内容</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="tech-category-02.html">お知らせ</a>
+                            <a class="nav-link" href="/information">お知らせ</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="tech-category-03.html">会社概要</a>
+                            <a class="nav-link" href="/about">会社概要</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="tech-contact.html">お問い合わせ</a>
+                            <a class="nav-link" href="/contact">お問い合わせ</a>
                         </li>
                     </ul>
                     <ul class="navbar-nav mr-2">

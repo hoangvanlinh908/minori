@@ -13,4 +13,16 @@ public class MinoriController {
     public String content(){
         return "content";
     }
+    @GetMapping("/contact")
+    public String contact(){
+        return "CONTACT";
+    }
+    @GetMapping("/information")
+    public String information(){
+        return "INFORMATION";
+    }
+    @GetMapping("/about")
+    public String about(){
+        return "about";
+    }
 }

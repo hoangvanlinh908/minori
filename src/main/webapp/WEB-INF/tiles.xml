@@ -26,6 +26,21 @@
         <put-attribute name="body" value="/WEB-INF/jsp/web/homepage.jsp" />
 
     </definition>
+    <definition name="about"
+                extends="client.definition1">
+        <put-attribute name="body" value="/WEB-INF/jsp/web/about.jsp" />
+
+    </definition>
+    <definition name="INFORMATION"
+                extends="client.definition1">
+        <put-attribute name="body" value="/WEB-INF/jsp/web/INFORMATION.jsp" />
+
+    </definition>
+    <definition name="CONTACT"
+                extends="client.definition1">
+        <put-attribute name="body" value="/WEB-INF/jsp/web/CONTACT.jsp" />
+
+    </definition>
     <definition name="content"
                 extends="client.definition1">
         <put-attribute name="body" value="/WEB-INF/jsp/web/content.jsp" />

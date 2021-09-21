@@ -3,66 +3,29 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
 
-    <section class="section first-section">
-        <div class="container-fluid">
-            <div class="masonry-blog clearfix">
-                <div class="first-slot">
-                    <div class="masonry-box post-media">
-                        <img style="width: 1000px; height: 500px" src="upload/Capturejp5.PNG" alt="" class="img-fluid">
-                        <div class="shadoweffect">
-                            <div class="shadow-desc">
-                                <div class="blog-meta">
-                                    <h4><a href="tech-single.html" title="">留学生と地域企業をつなぐ</a></h4>
-                                    <small><a href="tech-single.html" title="">24 July, 2017</a></small>
-                                    <small><a href="tech-author.html" title="">by Minori</a></small>
-                                </div><!-- end meta -->
-                            </div><!-- end shadow-desc -->
-                        </div><!-- end shadow -->
-                    </div><!-- end post-media -->
-                </div><!-- end first-side -->
 
-                <div class="second-slot">
-                    <div class="masonry-box post-media">
-                        <img style="width: 500px; height: 500px"src="upload/Capturejp2.PNG" alt="" class="img-fluid">
-                        <div class="shadoweffect">
-                            <div class="shadow-desc">
-                                <div class="blog-meta">
-                                    <span class="bg-orange"><a href="tech-category-01.html" title="">食物</a></span>
-                                    <h4><a href="tech-single.html" title="">物流アウトソーシング</a></h4>
-                                    <small><a href="tech-single.html" title="">03 July, 2017</a></small>
-                                    <small><a href="tech-author.html" title="">by Minori</a></small>
-                                </div><!-- end meta -->
-                            </div><!-- end shadow-desc -->
-                        </div><!-- end shadow -->
-                    </div><!-- end post-media -->
-                </div><!-- end second-side -->
-
-                <div class="last-slot">
-                    <div class="masonry-box post-media">
-                        <img style="width: 500px; height: 500px" src="upload/Capturejp2.PNG" alt="" class="img-fluid">
-                        <div class="shadoweffect">
-                            <div class="shadow-desc">
-                                <div class="blog-meta">
-                                    <span class="bg-orange"><a href="tech-category-01.html" title="">農業</a></span>
-                                    <h4><a href="tech-single.html" title="">農作業代行</a></h4>
-                                    <small><a href="tech-single.html" title="">01 July, 2017</a></small>
-                                    <small><a href="tech-author.html" title="">by Minori</a></small>
-                                </div><!-- end meta -->
-                            </div><!-- end shadow-desc -->
-                        </div><!-- end shadow -->
-                    </div><!-- end post-media -->
-                </div><!-- end second-side -->
-            </div><!-- end masonry -->
-        </div>
-    </section>
-
+<div class="page-title lb single-wrapper">
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+            <h2> お知らせ <small class="hidden-xs-down hidden-sm-down">INFORMATION </small></h2>
+        </div><!-- end col -->
+        <div class="col-lg-4 col-md-4 col-sm-12 hidden-xs-down hidden-sm-down">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/home">Home</a></li>
+                <li class="breadcrumb-item active">INFORMATION</li>
+            </ol>
+        </div><!-- end col -->
+    </div><!-- end row -->
+</div><!-- end container -->
+</div>
     <section class="section">
         <div class="container">
             <div class="row">
                 <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12">
                     <div class="page-wrapper">
                         <div class="blog-top clearfix">
-                            <h4 class="pull-left">新しい 投稿<a href="#"><i class="fa fa-rss"></i></a></h4>
+                            <h4 class="pull-left">物流アウトソーシング<a href="#"><i class="fa fa-rss"></i></a></h4>
                         </div><!-- end blog-top -->
 
                         <div class="blog-list clearfix">

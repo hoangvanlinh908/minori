@@ -4,13 +4,21 @@
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
 
 
-    <section class="section first-section">
-        <div class="container-fluid" style="padding-top: 100px;padding-bottom: 50px ;margin: 0 auto;background:#8dff7f ">
-           <h3 style="text-align: center">事業内容</h3>
-            <h2 style="text-align: center">BUSINESS</h2>
-        </div>
-    </section>
-
+<div class="page-title lb single-wrapper">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+                <h2> 事業内容 <small class="hidden-xs-down hidden-sm-down">BUSINESS </small></h2>
+            </div><!-- end col -->
+            <div class="col-lg-4 col-md-4 col-sm-12 hidden-xs-down hidden-sm-down">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="/home">Home</a></li>
+                    <li class="breadcrumb-item active">BUSINESS</li>
+                </ol>
+            </div><!-- end col -->
+        </div><!-- end row -->
+    </div><!-- end container -->
+</div>
     <section class="section">
         <div class="container">
             <div class="row">
@@ -141,7 +149,7 @@
                                 <div class="blog-box">
                                     <div class="post-media">
                                         <a href="tech-single.html" title="">
-                                            <img src="upload/tech_video_01.jpg" alt="" class="img-fluid">
+                                            <img src="upload/Capturejp6.PNG" alt="" class="img-fluid">
                                             <div class="hovereffect">
                                                 <span class="videohover"></span>
                                             </div><!-- end hover -->
@@ -157,7 +165,7 @@
                                 <div class="blog-box">
                                     <div class="post-media">
                                         <a href="tech-single.html" title="">
-                                            <img src="upload/tech_video_02.jpg" alt="" class="img-fluid">
+                                            <img src="upload/Capturejp6.PNG" alt="" class="img-fluid">
                                             <div class="hovereffect">
                                                 <span class="videohover"></span>
                                             </div><!-- end hover -->
